@@ -1,0 +1,24 @@
+{
+  "persons": [
+    {
+      "name": "Sir Miacelo",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Cedrick Klein",
+      "number": "040-123457",
+      "id": 3
+    },
+    {
+      "name": "Matti Luukkainen",
+      "number": "042-123456",
+      "id": 4
+    },
+    {
+      "name": "Arto Hellas",
+      "number": "045-123456",
+      "id": 6
+    }
+  ]
+}
